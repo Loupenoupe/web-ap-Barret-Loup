@@ -23,6 +23,7 @@ li {
 .recommandee {
     font-weight: bold;
     color: seagreen;
+    color: blue;
 }
 
 .deconseillee {
@@ -36,4 +37,13 @@ ol {
 
 .recommandation:hover {
     color: purple;
+}
+
+#race-cher {
+    color: darkorange;
+}
+
+.recommandee.deconseillee {
+    color: cyan;
+    font-weight: bold;
 }
