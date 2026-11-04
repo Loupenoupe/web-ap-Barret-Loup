@@ -115,4 +115,5 @@ input:valid {
 
 input:invalid {
     border-color: crimson;
+    background-color: rgb(255, 139, 139);
 }
