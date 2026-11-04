@@ -134,3 +134,8 @@ header {
 .colonnes aside {
     flex: 1;
 }
+
+ul {
+    display: flex;
+    gap: 50px;
+}
